@@ -1,0 +1,10 @@
+{
+  "id": "academic-dashboard",
+  "name": "Academic Dashboard",
+  "version": "1.0.0",
+  "minAppVersion": "0.15.0",
+  "description": "A comprehensive academic research dashboard for Obsidian",
+  "author": "Your Name",
+  "authorUrl": "https://your-website.com",
+  "isDesktopOnly": false
+}
